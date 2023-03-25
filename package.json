@@ -1,0 +1,16 @@
+{
+  "name": "username-sniper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sans",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.8.9",
+    "gradient-string": "^2.0.2",
+    "request": "^2.88.2"
+  }
+}
